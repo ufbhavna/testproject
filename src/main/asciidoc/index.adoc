@@ -2,13 +2,13 @@
 
 This is an example output for a service running at http://localhost:8081:
 
-== Sample Request
+== Sample Request Emplyee Controller
 include::{snippets}/employee/http-request.adoc[]
 
 == Sample Response
 include::{snippets}/employee/http-response.adoc[]
 
-== Sample Request
+== Sample Request Test Controller
 include::{snippets}/test/http-request.adoc[]
 
 == Sample Response
