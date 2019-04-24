@@ -1,0 +1,15 @@
+= Getting Started With Spring REST Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+== Sample Request
+include::{snippets}/employee/http-request.adoc[]
+
+== Sample Response
+include::{snippets}/employee/http-response.adoc[]
+
+== Sample Request
+include::{snippets}/test/http-request.adoc[]
+
+== Sample Response
+include::{snippets}/test/http-response.adoc[]
